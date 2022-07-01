@@ -4,14 +4,14 @@
 - Upload your code somewhere on the internet. This can be to a GitHub repository ( preferred ), a zip file on cloud storage, anywhere: as long as it is accessible by the judges. You will provide a link to this in the next steps.
 - Login to your GitHub account.
 - Make sure that the following are taken into consideration before submitting ( failure to do so will result in disqualification ) :
-        Make sure you have your code link ready
-        You should be ready with your PPT/Document of your project.
-        Demo Video for the project -
-            Tell us about your project
-            Demo of your project
-            Video must be in English
-            File name should be TeamName_HackWeb3Conf
-        Demo Link ( if applicable ) - Hosted / Live link of the prototype
+        1. Make sure you have your code link ready
+        2. You should be ready with your PPT/Document of your project
+        3.  Demo Video for the project-
+            - Tell us about your project
+            -  Demo of your project
+            -  Video must be in English
+            -  File name should be TeamName_HackWeb3Conf
+        4. Demo Link ( if applicable ) - Hosted / Live link of the prototype
 - Start a new submisison issue.
 - Mention team name, email of poc, track or bounty submitting for.
 - Submit the issue.
@@ -54,9 +54,9 @@ Top 2 submission in every track will get the following:
 For more details about tools that qualify, please read this page: https://ecosystem-wg.notion.site/Filecoin-IPFS-Hackathon-Judging-Criteria-fb29da31431c4c8da1be6c30e1d0ef82
 
 Bounty Prize : 
-1 x $1000 - 1st Prize Winner
-2 x $750 - Runners Up
-$500 Prize Pool up to 5 teams
+- 1 x $1000 - 1st Prize Winner
+- 2 x $750 - Runners Up
+- $500 Prize Pool up to 5 teams
 
 **More sponsor bounties coming soon!**
 
