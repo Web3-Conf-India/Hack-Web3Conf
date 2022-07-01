@@ -50,7 +50,7 @@ Top 2 submission in every track will get the following:
 ## Sponsor Bounties :
 ## IPFS Filecoin Bounty
 
-*Storage Wizard* The best use of IPFS for content addressing and/or Filecoin for persistent, decentralized storage for any track. Projects that use NFT.storage, web3.storage or similar tooling may also qualify.
+*Storage Wizard* : The best use of IPFS for content addressing and/or Filecoin for persistent, decentralized storage for any track. Projects that use NFT.storage, web3.storage or similar tooling may also qualify.
 For more details about tools that qualify, please read this page: https://ecosystem-wg.notion.site/Filecoin-IPFS-Hackathon-Judging-Criteria-fb29da31431c4c8da1be6c30e1d0ef82
 
 Bounty Prize : 
