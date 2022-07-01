@@ -4,14 +4,14 @@
 - Upload your code somewhere on the internet. This can be to a GitHub repository ( preferred ), a zip file on cloud storage, anywhere: as long as it is accessible by the judges. You will provide a link to this in the next steps.
 - Login to your GitHub account.
 - Make sure that the following are taken into consideration before submitting ( failure to do so will result in disqualification ) :
-        1. Make sure you have your code link ready
-        2. You should be ready with your PPT/Document of your project
-        3.  Demo Video for the project-
-            - Tell us about your project
-            -  Demo of your project
-            -  Video must be in English
-            -  File name should be TeamName_HackWeb3Conf
-        4. Demo Link ( if applicable ) - Hosted / Live link of the prototype
+  1. Make sure you have your code link ready
+  2. You should be ready with your PPT/Document of your project
+  3. Demo Video for the project-
+     - Tell us about your project
+     - Demo of your project
+     - Video must be in English
+     - File name should be TeamName_HackWeb3Conf
+  4. Demo Link ( if applicable ) - Hosted / Live link of the prototype
 - Start a new submisison issue.
 - Mention team name, email of poc, track or bounty submitting for.
 - Submit the issue.
@@ -48,7 +48,7 @@ Top 2 submission in every track will get the following:
 **All valid submissions for any track or sponsor bounty will be eligible to get a REAL SHIT conference pass for all of their team members.** 
 
 ## Sponsor Bounties :
-###### IPFS Filecoin Bounty
+## IPFS Filecoin Bounty
 
 *Storage Wizard* The best use of IPFS for content addressing and/or Filecoin for persistent, decentralized storage for any track. Projects that use NFT.storage, web3.storage or similar tooling may also qualify.
 For more details about tools that qualify, please read this page: https://ecosystem-wg.notion.site/Filecoin-IPFS-Hackathon-Judging-Criteria-fb29da31431c4c8da1be6c30e1d0ef82
