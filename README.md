@@ -33,6 +33,7 @@ Choose from the below tracks:
 - Blockchain & Cryptocurrencies
 - DeFi 
 - Community
+
 We also have 2 additional tracks from our partner GirlScript Foundation:
 - Hack for Women : Build any web3 project solving major day-to-day issues for women.
 - Education : Build any web3 project that supports education either in web3 space or other. 
@@ -47,7 +48,7 @@ Top 2 submission in every track will get the following:
 **All valid submissions for any track or sponsor bounty will be eligible to get a REAL SHIT conference pass for all of their team members.** 
 
 ## Sponsor Bounties :
-###### IPFS 
+###### IPFS Filecoin Bounty
 
 *Storage Wizard* The best use of IPFS for content addressing and/or Filecoin for persistent, decentralized storage for any track. Projects that use NFT.storage, web3.storage or similar tooling may also qualify.
 For more details about tools that qualify, please read this page: https://ecosystem-wg.notion.site/Filecoin-IPFS-Hackathon-Judging-Criteria-fb29da31431c4c8da1be6c30e1d0ef82
@@ -59,11 +60,12 @@ $500 Prize Pool up to 5 teams
 
 **More sponsor bounties coming soon!**
 
-##Timeline
+## Timeline
+
 Teams can register on Google Form and make a submission on GitHub here **till 30th of July, 2022.** No late submissions will be accepted as we need to give conference tickets to the valid submissions and winners. 
 
-##Contact : 
+## Contact : 
 
 All registered teams on Google Form will be getting a link to join our Telegram channel. 
 
-LFG!:rocket:
+All the Best! LFG :rocket:
