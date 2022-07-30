@@ -12,17 +12,14 @@ body:
   - type: textarea
     id: team-members
     attributes:
-      label: Team members
-      description: Mention details of all team members
+      label: Team members (if changed)
+      description: Mention details of all team members in case there is a change
       value: |
         Member #1
         Name:
         Email:
         Twitter handle:
         Discord ID (with #tag);
-        MetaMask Wallet address:
-    validations:
-      required: true
   - type: input
     id: project-name
     attributes:
