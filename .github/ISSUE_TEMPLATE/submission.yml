@@ -9,6 +9,20 @@ body:
       label: Team Name
     validations:
       required: true
+  - type: textarea
+    id: team-members
+    attributes:
+      label: Team members
+      description: Mention details of all team members
+      value: |
+        Member #1
+        Name:
+        Email:
+        Twitter handle:
+        Discord ID (with #tag);
+        MetaMask Wallet address:
+    validations:
+      required: true
   - type: input
     id: project-name
     attributes:
@@ -34,6 +48,8 @@ body:
           - Blockchain & Cryptocurrencies
           - DeFi
           - Community
+          - Hack for Women
+          - Education
     validations:
       required: false
   - type: dropdown
@@ -44,6 +60,8 @@ body:
       multiple: true
       options:
         - IPFS Filecoin
+        - Alchemy
+        - Gitopia
     validations:
       required: false
   - type: input

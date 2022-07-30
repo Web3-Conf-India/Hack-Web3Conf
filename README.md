@@ -59,7 +59,17 @@ Bounty Prize :
 - 2 x $750 - Runners Up
 - $500 Prize Pool up to 5 teams
 
-**More sponsor bounties coming soon!**
+## Alchemy Bounty
+
+- $150 in Alchemy credits to all Hackathon participants
+- Access to WAGBI program (up to $100k in Alchemy credits to scale any DApp)
+- Alchemy Hackathon Handbook, with resources, snippets of code, offers from partners to all participants
+
+## Gitopia Bounty
+- 50 DEV points for all valid submissions done on Gitopia.
+- Convert your DEV points to $LORE tokens on Gitopia Mainnet during the distribution of the genesis supply of Gitopia
+  according to the Game of $LORE.
+- Instructions for submitting through Gitopia can be found [here](https://gitopia.com/gitopia103nh7jxxnjqrxkas4drrcd7atnexqdzc3xj0lv/Hack-Web3Conf)
 
 ## Timeline
 
